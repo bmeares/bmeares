@@ -1,6 +1,6 @@
 # Hi, I'm Bennett! ✌️
 
-I'm a data engineer and the author of the open source library [Meerschaum](https://github.com/bmeares/Meerschaum), which is mean to make your life as a data analyst easier.
+I'm a data engineer and the author of the open source library [Meerschaum](https://github.com/bmeares/Meerschaum), which is meant to make your life as a data analyst easier.
 
 <p align="center">
 <img src="https://meerschaum.io/files/images/bubbles_32.gif" alt="Meerschaum bubbles gif" height="128px">
