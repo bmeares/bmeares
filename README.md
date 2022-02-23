@@ -16,8 +16,11 @@ I'm a data engineer and the author of the open source library [Meerschaum](https
 
 ### Video Tutorials
 
-I have a tutorial series called [Learning Meerschaum](https://www.youtube.com/playlist?list=PLJaQLBuU44n3bNEJd1ZpvaOLh9P-m21mo). Check out some episodes below!
+I have a tutorial series called [Learning Meerschaum](https://www.youtube.com/playlist?list=PLJaQLBuU44n3bNEJd1ZpvaOLh9P-m21mo), where we walk through ways you can use Meerschaum in your projects. Check out some episodes below!
 
 <p align="center">
-<a href="https://www.youtube.com/embed/t9tFD4afSD4"><img src="https://meerschaum.io/files/images/thumbnails/ep4.png" alt="Meerschaum tutorial series" height="256"></a>
+<a href="https://www.youtube.com/watch?v=t9tFD4afSD4"><img src="https://meerschaum.io/files/images/thumbnails/ep4.jpg" alt="Meerschaum tutorial series" height="256"></a>
+<a href="https://www.youtube.com/watch?v=rHfGOZFDQsU"><img src="https://meerschaum.io/files/images/thumbnails/ep3.jpg" alt="Meerschaum tutorial series" height="256"></a>
+<a href="https://www.youtube.com/watch?v=iOhPn4RjImQ"><img src="https://meerschaum.io/files/images/thumbnails/ep2.jpg" alt="Meerschaum tutorial series" height="256"></a>
+<a href="https://www.youtube.com/watch?v=cS9ZAG4INPk"><img src="https://meerschaum.io/files/images/thumbnails/ep1.jpg" alt="Meerschaum tutorial series" height="256"></a>
 </p>
